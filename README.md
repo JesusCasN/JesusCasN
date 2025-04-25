@@ -58,7 +58,6 @@ Estoy en búsqueda de mi primera oportunidad profesional como desarrollador back
 
 - 📧 jesuscastillonolasco@gmail.com  
 - 🌐 [Portafolio](https://jesus-portafolio.netlify.app/)
-- 🐙 [GitHub](https://github.com/JesusCasN)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jose-de-jesus-castillo-nolasco-8b1738321/)
 
 
